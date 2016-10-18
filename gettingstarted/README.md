@@ -1,3 +1,12 @@
 # R project 101
 
-Text here
+To run tests, first install devtools in R Studio
+
+Then run
+    
+    devtools::install()
+
+Then run 
+
+    devtools::test()
+
