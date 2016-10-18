@@ -1,0 +1,13 @@
+Package: r101
+Title: R 101
+Version: 0.1
+Description: R101
+Depends:
+    R (>= 3.3.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports:
+    testthat
+RoxygenNote: 5.0.1
+Suggests: testthat
